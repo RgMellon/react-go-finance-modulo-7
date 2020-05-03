@@ -16,3 +16,10 @@
 
 <h2> Resultado final </h2>
 
+<p> Dashboard </p>
+
+<img src="https://user-images.githubusercontent.com/29661994/80922208-de51ed80-8d51-11ea-8a32-9f76d95d3c38.png" alt="img-dash" />
+
+<p> Adicionar um arquivo csv </p>
+
+<img src="https://user-images.githubusercontent.com/29661994/80922212-e578fb80-8d51-11ea-81ed-1ed07a6e790c.png" alt="import" />
